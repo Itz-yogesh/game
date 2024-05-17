@@ -1,0 +1,23 @@
+SRS Document (Game)
+1.Introduction:-
+Purpose : The purpose of the gaming website is to provide a one-stop platform for gamers to access various tools, entertainment, and information related to video games. 
+2. Overall description:-
+Features:
+•	User registration and login functionality
+•	Gaming news and updates section
+•	Game reviews and ratings system
+•	Community forums and discussion boards
+•	Game database with information on various video games
+•	Tool section with game-related utilities and software 
+  
+    3. Functional requirements:
+•	Allow users to register and log in to the website
+•	Display gaming news and updates in a user-friendly format
+•	Allow users to submit reviews and ratings for video games 
+
+4.Non Functional requirements:
+•	Be user-friendly and easy to navigate
+•	Have a visually appealing design and layout
+•	Be optimized for search engines to improve visibility
+•	Be compatible with various devices and browsers
+•	Ensure data security and privacy for users
